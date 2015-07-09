@@ -1,2 +1,2 @@
 # simplecrawler
-A simple web crawler that crawls all Internet content.
+A simple python web crawler that crawls all Internet content.
