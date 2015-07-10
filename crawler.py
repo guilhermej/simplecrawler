@@ -1,3 +1,5 @@
+# Guilherme Junqueira - Simple Crawler
+
 import urllib.request
 import re
 
